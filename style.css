@@ -49,3 +49,8 @@
 .cell:nth-child(6) {
   width: 50px;
 }
+
+.completed {
+  background: gray;
+  text-decoration: line-through;
+}
